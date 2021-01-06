@@ -1,0 +1,62 @@
+[Project]
+FileName=Finalden Kac Almaliyim.dev
+Name=Finalden Kac Almaliyim
+Type=1
+Ver=2
+ObjFiles=
+Includes=
+Libs=
+PrivateResource=Finalden_Kac_Almaliyim_private.rc
+ResourceIncludes=
+MakeIncludes=
+Compiler=
+CppCompiler=
+Linker=
+IsCpp=0
+Icon=
+ExeOutput=
+ObjectOutput=
+LogOutput=
+LogOutputEnabled=0
+OverrideOutput=0
+OverrideOutputName=Finalden Kac Almaliyim.exe
+HostApplication=
+UseCustomMakefile=0
+CustomMakefile=
+CommandLine=
+Folders=
+IncludeVersionInfo=1
+SupportXPThemes=0
+CompilerSet=0
+CompilerSettings=0000000000000000000000000
+UnitCount=1
+
+[VersionInfo]
+Major=2
+Minor=0
+Release=2
+Build=3
+LanguageID=1033
+CharsetID=1252
+CompanyName=
+FileVersion=2.0.2.3
+FileDescription=Developed using the Dev-C++ IDE by T. Onur
+InternalName=
+LegalCopyright=(C) Onur Ravli
+LegalTrademarks=(C) Onur Ravli
+OriginalFilename=finalden_kac_almaliyim
+ProductName=
+ProductVersion=2.0.2.3
+AutoIncBuildNr=0
+SyncProduct=1
+
+[Unit1]
+FileName=main.c
+CompileCpp=0
+Folder=
+Compile=1
+Link=1
+Priority=1000
+OverrideBuildCmd=0
+BuildCmd=
+
